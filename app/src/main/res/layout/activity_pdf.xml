@@ -4,10 +4,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.gael.projects.poc_pdf_reader.MainActivity">
+    tools:context="com.gael.projects.poc_pdf_reader.PDF.PDFActivity">
 
     <FrameLayout
-        android:id="@+id/container"
+        android:id="@+id/action_container"
         android:layout_width="match_parent"
         android:layout_height="match_parent"></FrameLayout>
 
